@@ -3,6 +3,9 @@
 ## 궁금한 키워드
 ### internal
 
+
+
+kt에서 resourceKey에 command + ㅠ -> xml로 이동 
 ## 데이터 클래스 만들때 
 보안상 hashCode, equals 꼭 필요하다 
 class앞에 data키워드 적어주면 된다 
